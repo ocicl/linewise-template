@@ -1,0 +1,10 @@
+* linewise-template
+
+Linewise file/stream processor for code generation etc.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/agrostis/linewise-template.git   |
+| commit  | eef8d32  |
+| systems | linewise-template |
+|---------+-------------------------------------------|
+
